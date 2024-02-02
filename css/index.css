@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+}
+
+.header-math {
+
+    border-bottom: 3px solid palevioletred;
+    background-color: pink;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.main-math {
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-math {
+
+    border-top: 3px solid palevioletred;
+    background-color: pink;
+    margin: 0;
+    padding: 10px;
+
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    color: rgb(211, 77, 121);
+    text-decoration: underline;
+}
+
+.footer-text {
+    color: rgb(255, 107, 157);
+}
+
+.math-element {
+    background-color: pink;
+    color: rgb(211, 77, 121);
+    padding: 20px;
+    border: dotted palevioletred 2px;
+    border-radius: 50%;
+}
+
+.button-start {
+    color: white;
+    background-color: palevioletred;
+    border: 3px solid rgb(214, 45, 101);
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.button-reload {
+    color: white;
+    background-color: palevioletred;
+    border: 3px solid rgb(214, 45, 101);
+    border-radius: 50%;
+    padding: 20px;
+    text-decoration: none;
+}
